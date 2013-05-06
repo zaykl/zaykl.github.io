@@ -7,19 +7,19 @@ title: zaykl sky
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 </head>
 
-追求美好的东西,分享,爱技术
+追求极致美好, 分享
 ==================
 
 [Kk](http://zaykl.github.com) |
 <liangkazhe@gmail.com> |
-[@zaykl](http://weibo.com/zaykl)
+[@zaykl](http://twitter.com/zaykl)
 
 ### 目录
 
 ##### About Me
 
 * zaykl
-* 就职于[UC](www.uc.cn)
+* [就职于UC](http://uc.cn)
 * 目前负责游戏交易平台前后台技术架构
 * 熟悉前端技术和后端技术, 略懂iOS&android客户端开发
 * 技术体系: Linux, Mac os, AS400, Python, Java, Php, Js, C...

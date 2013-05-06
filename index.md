@@ -18,9 +18,10 @@ title: 做美好的人，做酷的事
 
 ##### 随笔
 
-* [搬博客](posts/setup_blog_in_github.html)
+* [搬博客](post/setup_blog_in_github.html)
 
 ----
+<div id="disqus_thread"></div>
 <script type="text/javascript">
         /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
         var disqus_shortname = 'zaykl'; // required: replace example with your forum shortname

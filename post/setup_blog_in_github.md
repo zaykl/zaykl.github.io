@@ -1,5 +1,5 @@
 ---
-title: all_in_for_love
+title: 搬家到github
 ---
 
 <head>
@@ -13,7 +13,7 @@ title: all_in_for_love
 搬家到github
 
 ----
-
+<div id="disqus_thread"></div>
 <script type="text/javascript">
 /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
     var disqus_shortname = 'zaykl'; // required: replace example with your forum shortname

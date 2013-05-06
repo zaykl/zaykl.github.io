@@ -14,21 +14,18 @@ title: zaykl sky
 <liangkazhe@gmail.com> |
 [@zaykl](http://twitter.com/zaykl)
 
-### About Me
-
-    Kk, 攻城师一枚
-    就职于优视科技(www.uc.cn)
-    目前负责游戏交易平台前后台技术架构
-    熟悉前端技术和后端技术, 略懂iOS&android客户端开发
-    技术体系: Linux, Mac os, AS400, Python, Java, Php, Js, C...
-
 ### 目录
+
+##### About Me
+
+* [简介](post/about_me.html)
 
 ##### 随笔
 
 * [搬博客](post/setup_blog_in_github.html)
 
 ----
+
 <div id="disqus_thread"></div>
 <script type="text/javascript">
         /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */

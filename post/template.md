@@ -9,7 +9,7 @@ title: all_in_for_love
 
 title
 ===========
-首页：[zaykl](http://zaykl.github.com)
+首页：[zaykl](http://zaykl.github.io)
 ----
 
 content

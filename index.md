@@ -1,5 +1,5 @@
 ---
-title: 做美好的人，做酷的事
+title: zaykl sky
 ---
 
 <head>
@@ -7,7 +7,7 @@ title: 做美好的人，做酷的事
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 </head>
 
-做美好的人，做酷的事
+追求美好的东西,分享,爱技术
 ==================
 
 [Kk](http://zaykl.github.com) |
@@ -16,6 +16,9 @@ title: 做美好的人，做酷的事
 
 ### 目录
 
+##### About Me
+* zaykl
+* 就职于UC(www.uc.cn)
 ##### 随笔
 
 * [搬博客](post/setup_blog_in_github.html)

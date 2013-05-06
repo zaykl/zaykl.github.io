@@ -9,10 +9,11 @@ title: 搬家到github
 
 搬家到github
 ===========
-
+首页：[zaykl](http://zaykl.github.com)
+---
 搬家到github
-
 ----
+
 <div id="disqus_thread"></div>
 <script type="text/javascript">
 /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */

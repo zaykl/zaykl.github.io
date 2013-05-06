@@ -19,7 +19,7 @@ title: zaykl sky
 ##### About Me
 
 * 人称Kk
-* 就职于<a href="http://uc.cn">UC</a>, 攻城师一枚
+* 就职于UC, 攻城师一枚
 * 目前负责游戏交易平台前后台技术架构
 * 熟悉前端技术和后端技术, 略懂iOS&android客户端开发
 * 技术体系: Linux, Mac os, AS400, Python, Java, Php, Js, C...

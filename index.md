@@ -18,11 +18,11 @@ title: zaykl sky
 
 ##### About Me
 
-人称Kk<br>
-就职于优视科技-[UC](http://uc.cn)<br>
-目前负责游戏交易平台前后台技术架构<br>
-熟悉前端技术和后端技术, 略懂iOS&android客户端开发<br>
-技术体系: Linux, Mac os, AS400, Python, Java, Php, Js, C...<br>
+Kk, 攻城师一枚
+就职于优视科技-[UC](http://uc.cn)
+目前负责游戏交易平台前后台技术架构
+熟悉前端技术和后端技术, 略懂iOS&android客户端开发
+技术体系: Linux, Mac os, AS400, Python, Java, Php, Js, C...
 
 ##### 随笔
 

@@ -18,7 +18,7 @@ title: zaykl sky
 
 ##### About Me
 
-- 人称Kk
+- 人称Kk啊
 - 就职于优视科技
 - 目前负责游戏交易平台前后台技术架构
 - 熟悉前端技术和后端技术, 略懂iOS&android客户端开发

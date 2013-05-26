@@ -15,11 +15,19 @@ title: about_me
 -----------
 
 	{
-    	name : Kk, 攻城师一枚
-    	job : 就职于优视科技(www.uc.cn)
-    	current : 目前负责游戏交易平台前后台技术架构
-    	ability : 熟悉前端技术和后端技术, 略懂iOS&android客户端开发
-    	skill : Linux, Mac os, AS400, Python, Java, Php, Js, C...
+    	name : Kk, 攻城师一枚,
+    	job : 就职于优视科技(www.uc.cn),
+    	current : 目前负责游戏交易平台前后台技术架构,
+    	ability : 熟悉前端技术和后端技术, 略懂iOS&android客户端开发,
+    	skill : Linux, Mac os, AS400, Python, Java, Php, Js, C…,
+    	project: {
+    		KAE框架:https://github.com/zaykl/kae,
+    		翻墙代理:https://github.com/zaykl/Gapp-Tweak,
+    		eviplay:http://www.eviplay.com/
+    		Ink361:http://ink361.com/
+    		UC乐园:http://u.uc.cn/,
+    		游戏交易平台:On going
+    	}
 	}
 
 -----------

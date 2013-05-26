@@ -23,8 +23,8 @@ title: about_me
     	project: {
     		KAE框架:https://github.com/zaykl/kae,
     		翻墙代理:https://github.com/zaykl/Gapp-Tweak,
-    		eviplay:http://www.eviplay.com/
-    		Ink361:http://ink361.com/
+    		eviplay:http://www.eviplay.com/,
+    		Ink361:http://ink361.com/,
     		UC乐园:http://u.uc.cn/,
     		游戏交易平台:On going
     	}

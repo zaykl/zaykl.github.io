@@ -25,7 +25,8 @@ title: zaykl sky
 * [搬博客](post/setup_blog_in_github.html)
 
 ##### 友情链接
-[交易猫](http://www.jiaoyimall.com)
+* [交易猫](http://www.jiaoyimall.com)
+
 ----
 
 <div id="disqus_thread"></div>
